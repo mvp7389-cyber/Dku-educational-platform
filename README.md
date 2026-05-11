@@ -21,3 +21,4 @@ usecaseDiagram
     StudentC --> UC2
     StudentB --> UC3
     StudentA --> UC5
+'''
